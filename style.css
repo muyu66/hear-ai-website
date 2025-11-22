@@ -193,6 +193,14 @@ body {
   color: #ececec;
 }
 
+.donate-img {
+  margin-top: 20px;
+  width: 300px;
+  max-width: 50%;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6);
+}
+
 /* Footer */
 footer {
   padding: 30px 20px;
